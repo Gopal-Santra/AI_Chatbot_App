@@ -24,7 +24,7 @@ An AI-powered Chatbot Android Application built with Kotlin using Groq API.
 - **UI Components:** XML, RecyclerView, CardView
   
 
-## 📸 App Screen recording
+## 🎥 App Screen recording
 https://github.com/user-attachments/assets/243a288d-dcda-448b-9ee4-3c6b01b3c8fe
 
 
