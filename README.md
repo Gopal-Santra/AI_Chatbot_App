@@ -1,3 +1,6 @@
+
+
+
 # AI Chatbot Application 📱🤖
 
 An AI-powered Chatbot Android Application built with Kotlin using Groq API.
@@ -6,7 +9,7 @@ An AI-powered Chatbot Android Application built with Kotlin using Groq API.
 - Real-time conversational AI responses
 - Interactive and clean chat interface using RecyclerView
 - Powered by Groq API integration
-- 
+  
 
 ## 📸 App Screenshots
 <img width="720" height="1600" alt="WhatsApp Image 2026-10-14 at 2 17 47 PM" src="https://github.com/user-attachments/assets/de488413-af1d-4987-8438-f8e4c0269c72" />
@@ -19,5 +22,9 @@ An AI-powered Chatbot Android Application built with Kotlin using Groq API.
 - **IDE:** Android Studio
 - **API:** Groq API
 - **UI Components:** XML, RecyclerView, CardView
--
+  
+
+## 📸 App Screen recording
+https://github.com/user-attachments/assets/243a288d-dcda-448b-9ee4-3c6b01b3c8fe
+
 
